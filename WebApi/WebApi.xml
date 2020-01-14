@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:WebApi.Controllers.UserProfileController.List">
+            <summary>
+            Get a list of all Users. It will be only for authorize users, but for now is open to anyone.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebApi.Controllers.ValuesController.Get">
+            <summary>
+            get harcoded values
+            </summary>
+            <returns>Dummy Values</returns>
+        </member>
+    </members>
+</doc>
